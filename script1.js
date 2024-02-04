@@ -132,6 +132,7 @@ pro4.then(function(str){
 })
 
 .then(function(str){
+    
     console.log(str)
 
 })
